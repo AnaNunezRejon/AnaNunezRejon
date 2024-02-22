@@ -1,26 +1,24 @@
-<br>
-<div style ="display:flex;" align="center">
-  <img src="https://drive.google.com/file/d/1XRGLiaX2RzEMZLS_HxUNAnnOkOKqNa1V/view?usp=sharing" style="width:100%"/>
+<div align="center">
+<h1 align="center">Hola, soy Ana Nuñez 👋</h1>
 </div>
+<img src="https://imgur.com/ay0o6EW.png">
 
-<p align="center">I'm a student developer.<br/>I specialize in Web-Development and Flutter.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p><br/>
+
+<p align="center">Soy Diseñadora Grágica<br/>Estoy estudiando un Master de FullStack <br>También he hecho mis pinitos en marketing<br></p>
 <br>
 <p align = "center">
  
-[<img src ="https://img.shields.io/badge/behance-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://rahulmahesh.me/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahulmahesh/)
+[<img src ="https://img.shields.io/badge/behance-E34A86?&style=for-the-badge&logo=&logoColor=white%22">](https://www.behance.net/ananunezrejon)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ananuñezrejon/)
 
 
 </p>
 
- ## About me &#128513;
+ ## Sobre mi &#128513;
   <p>
   <b>
-  I am Schleidens a lover of technology &#128525; passionate about front end development, I work on my projects with Vue/Nuxt a front framework that I really like.
-  I'm currently learning reactjs and nodejs (wooaaahh fullstack JS &#128526;).
-  i like to learn new technology and update myself. i also like to contribute in open sources projects
+  Diseñadora gráfica con 11 años de experiencia en el sector. Altas capacidades creativas y control avanzado de cualquier tipo de programa o herramienta en la materia. He trabajado en multitud de formatos web, cartelería, publicidad, periodismo. Capacidad para trabajar en grupos para proyectos corporativos.
 
-
-  working with you is already a pleasure for me &#128519;
+  Actualmente me encuentro en busqueda de un trabajo relacionado con el UI (Diseño User Interface) o Diseño y maquetación FrontEnd, si estás interesado, no dudes en contactar conmigo &#128519;
   </b>
   </p>
