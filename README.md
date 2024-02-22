@@ -1,8 +1,6 @@
 <br>
 <div style ="display:flex;" align="center">
-  <img src="[https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM](https://github.com/AnaNunezRejon/AnaNunezRejon/assets/140715043/c7ecba53-ca59-41d2-9d50-90b2fd02b5cd)" style="width:100%"/>
- ![banner-github](https://github.com/AnaNunezRejon/AnaNunezRejon/assets/140715043/c7ecba53-ca59-41d2-9d50-90b2fd02b5cd)
-
+  <img src="https://drive.google.com/file/d/1XRGLiaX2RzEMZLS_HxUNAnnOkOKqNa1V/view?usp=sharing" style="width:100%"/>
 </div>
 
 <p align="center">I'm a student developer.<br/>I specialize in Web-Development and Flutter.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p><br/>
