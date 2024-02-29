@@ -4,7 +4,7 @@
 <img src="https://imgur.com/ay0o6EW.png">
 
 
-<p align="center">Soy Diseñadora Grágica<br/>Estoy estudiando un Master de FullStack <br>También he hecho mis pinitos en marketing y redes sociales<br></p>
+<p align="center">Soy Diseñadora Grágica<br/>Estoy estudiando un Master de FullStack <br>También he hecho mis pinitos en marketing y redes sociales<br> &#128151 Detallito!: Si entras en mis proyectos, podras ver una preview del proyecto en si por si te interesa.&#128151</p>
 <br>
 <p align = "center">
  
