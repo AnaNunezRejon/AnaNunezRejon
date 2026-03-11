@@ -21,6 +21,7 @@
 <div align="center">
   <img src="https://github.com/AnaNunezRejon/AnaNunezRejon/raw/main/assets/typing_effect.gif" alt="Typing effect" width="600"/>
 </div>
+
 ---
 
 ## Perfil Profesional
