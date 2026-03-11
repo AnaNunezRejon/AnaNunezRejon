@@ -18,6 +18,10 @@
   </a>
 </p>
 
+<div align=\"center\">
+  <img src=\"https://github.com/TU_USUARIO/TU_REPO/raw/main/typing_effect.gif\" alt=\"Typing effect\" width=\"600\"/>
+</div>
+
 ---
 
 ## Perfil Profesional
@@ -87,7 +91,7 @@ ananunezrejon@gmail.com
 
 |  Título |  Institución |  Año |
 |:---:|:---:|:---:|
-| **FP Desarrollo de Aplicaciones Multiplataforma (DAM)** | New Digital Talent | 2024-Actualidad |
+| **FP Desarrollo de Aplicaciones Multiplataforma (DAM)** | Escuela técnica audiovisual de Andalucia | 2024-Actualidad |
 | **Máster Full Stack Developer** (1500h) | UNIR | 2023-2024 |
 | **Curso Front-End HTML y CSS** (125h) | UNIR | 2023 |
 | **Máster en Diseño Web** (1500h) | Estación Diseño | 2017-2018 |
