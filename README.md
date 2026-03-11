@@ -113,7 +113,7 @@ ananunezrejon@gmail.com
 <br>
 
 <a href="https://ananunezrejon.github.io/Curriculum/cv.html">
-<img src="https://img.shields.io/badge/👁️_VER_CURRÍCULUM-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/_VER_CURRÍCULUM-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
 </a>
 
 <br><br>
@@ -130,7 +130,7 @@ ananunezrejon@gmail.com
 <br>
 
 <a href="https://ananunezrejon.github.io/Curriculum">
-<img src="https://img.shields.io/badge/👁️_VER_PORTFOLIO-f093fb?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/_VER_PORTFOLIO-f093fb?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
 </a>
 
 <br><br>
@@ -147,7 +147,7 @@ ananunezrejon@gmail.com
 <br>
 
 <a href="https://www.behance.net/ananunezrejon">
-<img src="https://img.shields.io/badge/👁️_VER_EN_BEHANCE-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/_VER_EN_BEHANCE-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="35"/>
 </a>
 
 <br><br>
