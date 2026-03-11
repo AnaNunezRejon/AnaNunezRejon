@@ -22,7 +22,7 @@
 
 ## Perfil Profesional
 
-Diseñadora Gráfica Senior con **+11 años de experiencia** en branding e identidad visual. Actualmente cursando **Desarrollo de Aplicaciones Multiplataforma (DAM)** para fusionar creatividad con tecnología.
+Diseñadora Gráfica Senior con **+15 años de experiencia** en branding e identidad visual. Actualmente cursando **Desarrollo de Aplicaciones Multiplataforma (DAM)** para fusionar creatividad con tecnología.
 
 **Especializada en:** Diseño de productos digitales · UX/UI · Branding · Frontend
 
