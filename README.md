@@ -35,6 +35,7 @@ ananunezrejon@gmail.com
   <img src="https://github-readme-stats.vercel.app/api?username=AnaNunezRejon&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f093fb&text_color=c9d1d9&icon_color=667eea" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaNunezRejon&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f093fb&text_color=c9d1d9" width="48%"/>
 </div>
+
 ---
 
 ##  Stack Tecnológico
