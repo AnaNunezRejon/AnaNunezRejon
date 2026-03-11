@@ -101,43 +101,11 @@ ananunezrejon@gmail.com
 
 <div align="center">
 
-### 📄 Currículum Interactivo
-
-<a href="https://ananunezrejon.github.io/Curriculum/cv.html">
-  <img src="https://img.shields.io/badge/👁️_Ver_Curriculum-667eea?style=for-the-badge&logoColor=white" alt="Ver Currículum"/>
-</a>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-</p>
-
----
-
-### 🌐 Portfolio Interactivo
-
-<a href="https://ananunezrejon.github.io/Curriculum">
-  <img src="https://img.shields.io/badge/👁️_Ver_Portfolio-f093fb?style=for-the-badge&logoColor=white" alt="Ver Portfolio"/>
-</a>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
-</p>
-
----
-
-### 🎨 Delicia Design
-
-<a href="https://www.behance.net/ananunezrejon">
-  <img src="https://img.shields.io/badge/👁️_Ver_en_Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Ver en Behance"/>
-</a>
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Adobe_Suite-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe"/>
-</p>
+| | | |
+|:---:|:---:|:---:|
+| **📄 Currículum** | **🌐 Portfolio** | **🎨 Delicia Design** |
+| <a href="https://ananunezrejon.github.io/Curriculum/cv.html"><img src="https://img.shields.io/badge/Ver-667eea?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> | <a href="https://ananunezrejon.github.io/Curriculum"><img src="https://img.shields.io/badge/Ver-f093fb?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> | <a href="https://www.behance.net/ananunezrejon"><img src="https://img.shields.io/badge/Ver-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a> |
+| <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white"/> |
 
 </div>
 
