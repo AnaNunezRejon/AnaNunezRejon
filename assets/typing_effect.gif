@@ -1,0 +1,105 @@
+
+from PIL import Image, ImageDraw, ImageFont
+import os
+
+# Crear directorio de salida si no existe
+output_dir = "/mnt/kimi/output"
+os.makedirs(output_dir, exist_ok=True)
+
+# Configuración
+width, height = 800, 100
+bg_color = (255, 255, 255)  # Blanco
+text_color = (102, 126, 234)  # Color que combine con tu cabecera (morado/azul)
+cursor_color = (118, 75, 162)  # Cursor morado
+
+# Frases para el efecto de máquina de escribir
+phrases = [
+    "Diseñando el código ✨",
+    "Codificando el diseño 🎨",
+    "Creando experiencias únicas 🚀",
+    "Pixel perfect & Code clean 💻",
+    "Donde el diseño encuentra la función 🎯",
+    "Transformando ideas en realidad 💡"
+]
+
+# Intentar cargar fuente, fallback a default
+font_size = 32
+font = ImageFont.load_default()
+
+# Crear frames para la animación
+frames = []
+
+for phrase in phrases:
+    # Efecto de escritura (escribir letra por letra)
+    for i in range(len(phrase) + 1):
+        img = Image.new('RGB', (width, height), bg_color)
+        draw = ImageDraw.Draw(img)
+        
+        # Texto actual
+        current_text = phrase[:i]
+        
+        # Dibujar texto
+        draw.text((width//2, height//2), current_text, font=font, fill=text_color, anchor="mm")
+        
+        # Dibujar cursor parpadeante (solo si no es el último frame de escritura)
+        if i < len(phrase):
+            bbox = draw.textbbox((width//2, height//2), current_text, font=font, anchor="mm")
+            cursor_x = bbox[2] if current_text else width//2
+            cursor_y = height//2 - font_size//2
+            draw.rectangle([cursor_x + 2, cursor_y, cursor_x + 4, cursor_y + font_size], fill=cursor_color)
+        
+        frames.append(img)
+    
+    # Pausa después de escribir la frase completa
+    for _ in range(15):  # 15 frames de pausa
+        img = Image.new('RGB', (width, height), bg_color)
+        draw = ImageDraw.Draw(img)
+        draw.text((width//2, height//2), phrase, font=font, fill=text_color, anchor="mm")
+        # Cursor parpadeante
+        bbox = draw.textbbox((width//2, height//2), phrase, font=font, anchor="mm")
+        cursor_x = bbox[2]
+        cursor_y = height//2 - font_size//2
+        if len(frames) % 4 < 2:  # Parpadeo cada 2 frames
+            draw.rectangle([cursor_x + 2, cursor_y, cursor_x + 4, cursor_y + font_size], fill=cursor_color)
+        frames.append(img)
+    
+    # Efecto de borrado (borrar letra por letra)
+    for i in range(len(phrase), -1, -1):
+        img = Image.new('RGB', (width, height), bg_color)
+        draw = ImageDraw.Draw(img)
+        
+        current_text = phrase[:i]
+        
+        draw.text((width//2, height//2), current_text, font=font, fill=text_color, anchor="mm")
+        
+        # Cursor parpadeante
+        if i > 0:
+            bbox = draw.textbbox((width//2, height//2), current_text, font=font, anchor="mm")
+            cursor_x = bbox[2] if current_text else width//2
+            cursor_y = height//2 - font_size//2
+            draw.rectangle([cursor_x + 2, cursor_y, cursor_x + 4, cursor_y + font_size], fill=cursor_color)
+        
+        frames.append(img)
+    
+    # Pausa breve entre frases
+    for _ in range(5):
+        img = Image.new('RGB', (width, height), bg_color)
+        draw = ImageDraw.Draw(img)
+        # Solo cursor parpadeante
+        if len(frames) % 4 < 2:
+            draw.rectangle([width//2, height//2 - font_size//2, width//2 + 2, height//2 + font_size//2], fill=cursor_color)
+        frames.append(img)
+
+# Guardar como GIF
+output_path = os.path.join(output_dir, "typing_effect.gif")
+frames[0].save(
+    output_path,
+    save_all=True,
+    append_images=frames[1:],
+    duration=80,  # 80ms entre frames
+    loop=0  # Loop infinito
+)
+
+print(f"✅ GIF guardado en: {output_path}")
+print(f"📊 Total de frames: {len(frames)}")
+print(f"📐 Dimensiones: {width}x{height}")
