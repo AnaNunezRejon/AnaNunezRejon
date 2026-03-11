@@ -22,6 +22,9 @@
   <img src=\"https://github.com/TU_USUARIO/TU_REPO/raw/main/typing_effect.gif\" alt=\"Typing effect\" width=\"600\"/>
 </div>
 
+<div align=\"center\">
+  <img src="https://github.com/AnaNunezRejon/AnaNunezRejon/raw/main/typing_effect_dark.gif" ... />
+</div>
 ---
 
 ## Perfil Profesional
