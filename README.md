@@ -116,7 +116,7 @@ ananunezrejon@gmail.com
 <img src="https://img.shields.io/badge/👁️_VER_CURRÍCULUM-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
 </a>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
@@ -132,7 +132,7 @@ ananunezrejon@gmail.com
 <img src="https://img.shields.io/badge/👁️_VER_PORTFOLIO-f093fb?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
 </a>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
@@ -149,7 +149,7 @@ ananunezrejon@gmail.com
 <img src="https://img.shields.io/badge/👁️_VER_EN_BEHANCE-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="35"/>
 </a>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Adobe_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" height="25"/>
