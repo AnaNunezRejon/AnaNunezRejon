@@ -3,9 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.behance.net/ananunezrejon">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
+  
   <a href="https://linkedin.com/in/ananunezrejon">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -14,6 +12,9 @@
   </a>
   <a href="https://ananunezrejon.github.io/Curriculum">
     <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.behance.net/ananunezrejon">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
 </p>
 
@@ -63,7 +64,7 @@ ananunezrejon@gmail.com
 
 ## 📚 Formación
 
-| 🎓 Título | 🏫 Institución | 📅 Año |
+|  Título |  Institución |  Año |
 |:---:|:---:|:---:|
 | **FP Desarrollo de Aplicaciones Multiplataforma (DAM)** | New Digital Talent | 2024-Actualidad |
 | **Máster Full Stack Developer** (1500h) | UNIR | 2023-2024 |
@@ -82,33 +83,33 @@ ananunezrejon@gmail.com
 
 ---
 
-## 💼 Experiencia Profesional
+##  Experiencia Profesional
 
-### 🎨 Autónoma Freelance — Diseño e Ilustración
+###  Autónoma Freelance — Diseño e Ilustración
 *2018 - Actualidad*
 - Branding, diseño gráfico e ilustración
 - Desarrollo de identidades visuales completas
 - Diseño de piezas para redes sociales y comunicación
 
-### 🏢 Diseñadora Gráfica Senior — LOMONACO
+###  Diseñadora Gráfica Senior — LOMONACO
 *2009 - 2020*
 - Diseño editorial, publicitario y digital (online/offline)
 - Coordinación de proyectos visuales con equipos de marketing
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 <div align="center">
 
-| 🌐 Portfolio Interactivo | 📄 Currículum Interactivo | 🎨 Delicia Design |
+|  Currículum Interactivo |  Portfolio Interactivo |  Delicia Design |
 |:---:|:---:|:---:|
 | [Ver Proyecto](https://ananunezrejon.github.io/Portfolio-AnaNunez/) | [Ver CV](https://ananunezrejon.github.io/Curriculum/curriculum.html) | [Ver en Behance](https://www.behance.net/ananunezrejon) |
 | `HTML` `CSS` `JS` | `HTML` `CSS` | `Figma` `Adobe Suite` |
 
 </div>
 
-> 💡 **Detallito:** ¡Si entras en mis repositorios, podrás ver una preview del proyecto en sí! 💖✨
+>  **Detallito:** ¡Si entras en mis repositorios, podrás ver una preview del proyecto en sí! 💖✨
 
 ---
 
@@ -127,7 +128,7 @@ ananunezrejon@gmail.com
 
 ---
 
-## 🎯 Actualmente...
+##  Actualmente...
 
 🔭 Cursando el último año de DAM
 🌱 Aprendiendo Android Studio y desarrollo de apps móviles
