@@ -101,11 +101,52 @@ ananunezrejon@gmail.com
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| **📄 Currículum** | **🌐 Portfolio** | **🎨 Delicia Design** |
-| <a href="https://ananunezrejon.github.io/Curriculum/cv.html"><img src="https://img.shields.io/badge/Ver-667eea?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> | <a href="https://ananunezrejon.github.io/Curriculum"><img src="https://img.shields.io/badge/Ver-f093fb?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> | <a href="https://www.behance.net/ananunezrejon"><img src="https://img.shields.io/badge/Ver-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a> |
-| <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white"/> |
+<table width="100%">
+<tr>
+<th width="33%" align="center">📄 Currículum Interactivo</th>
+<th width="33%" align="center">🌐 Portfolio Interactivo</th>
+<th width="33%" align="center">🎨 Delicia Design</th>
+</tr>
+<tr>
+<td align="center" valign="top">
+
+<a href="https://ananunezrejon.github.io/Curriculum/cv.html">
+<img src="https://img.shields.io/badge/👁️_VER_CURRÍCULUM-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=667eea" height="35"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+
+</td>
+<td align="center" valign="top">
+
+<a href="https://ananunezrejon.github.io/Curriculum">
+<img src="https://img.shields.io/badge/👁️_VER_PORTFOLIO-f093fb?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=f093fb" height="35"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+
+</td>
+<td align="center" valign="top">
+
+<a href="https://www.behance.net/ananunezrejon">
+<img src="https://img.shields.io/badge/👁️_VER_EN_BEHANCE-1769ff?style=for-the-badge&logo=behance&logoColor=white&labelColor=1769ff" height="35"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Adobe_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" height="25"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
