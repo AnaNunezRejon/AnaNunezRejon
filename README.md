@@ -97,52 +97,64 @@ ananunezrejon@gmail.com
 - Coordinación de proyectos visuales con equipos de marketing
 
 ---
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 <div align="center">
 
 <table width="100%">
 <tr>
-<th width="33%" align="center">📄 Currículum Interactivo</th>
-<th width="33%" align="center">🌐 Portfolio Interactivo</th>
-<th width="33%" align="center">🎨 Delicia Design</th>
+<th width="33%" align="center"> Currículum Interactivo</th>
+<th width="33%" align="center"> Portfolio Interactivo</th>
+<th width="33%" align="center"> Delicia Design</th>
 </tr>
 <tr>
 <td align="center" valign="top">
 
+<br>
+
 <a href="https://ananunezrejon.github.io/Curriculum/cv.html">
-<img src="https://img.shields.io/badge/👁️_VER_CURRÍCULUM-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=667eea" height="35"/>
+<img src="https://img.shields.io/badge/👁️_VER_CURRÍCULUM-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
 </a>
 
-<br><br>
+<br><br><br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
 
+<br><br>
+
 </td>
 <td align="center" valign="top">
 
+<br>
+
 <a href="https://ananunezrejon.github.io/Curriculum">
-<img src="https://img.shields.io/badge/👁️_VER_PORTFOLIO-f093fb?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=f093fb" height="35"/>
+<img src="https://img.shields.io/badge/👁️_VER_PORTFOLIO-f093fb?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
 </a>
 
-<br><br>
+<br><br><br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 
+<br><br>
+
 </td>
 <td align="center" valign="top">
 
+<br>
+
 <a href="https://www.behance.net/ananunezrejon">
-<img src="https://img.shields.io/badge/👁️_VER_EN_BEHANCE-1769ff?style=for-the-badge&logo=behance&logoColor=white&labelColor=1769ff" height="35"/>
+<img src="https://img.shields.io/badge/👁️_VER_EN_BEHANCE-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="35"/>
 </a>
 
-<br><br>
+<br><br><br>
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Adobe_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" height="25"/>
+
+<br><br>
 
 </td>
 </tr>
@@ -150,7 +162,7 @@ ananunezrejon@gmail.com
 
 </div>
 
-> 💡 **Detallito:** ¡Si entras en mis repositorios, podrás ver una preview del proyecto en sí! 💖✨
+>  **Detallito:** ¡Si entras en mis repositorios, podrás ver una preview del proyecto en sí! 💖✨
 ---
 
 ## 🌟 Áreas de Especialización
