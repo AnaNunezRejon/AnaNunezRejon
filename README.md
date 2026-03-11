@@ -19,7 +19,7 @@
 </p>
 
 <div align=\"center\">
-  <img src=\"https://github.com/TU_USUARIO/TU_REPO/raw/main/typing_effect.gif\" alt=\"Typing effect\" width=\"600\"/>
+  <img src=\"https://github.com/AnaNunezRejon/AnaNunezRejon/raw/main/assets/typing_effect.gif\" alt=\"Typing effect\" width=\"600\"/>
 </div>
 
 ---
