@@ -97,20 +97,51 @@ ananunezrejon@gmail.com
 - Coordinación de proyectos visuales con equipos de marketing
 
 ---
-
-##  Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 <div align="center">
 
-|  Currículum Interactivo |  Portfolio Interactivo |  Delicia Design |
-|:---:|:---:|:---:|
-| [Ver Proyecto](https://ananunezrejon.github.io/Portfolio-AnaNunez/) | [Ver CV](https://ananunezrejon.github.io/Curriculum/curriculum.html) | [Ver en Behance](https://www.behance.net/ananunezrejon) |
-| `HTML` `CSS` `JS` | `HTML` `CSS` | `Figma` `Adobe Suite` |
+### 📄 Currículum Interactivo
+
+<a href="https://ananunezrejon.github.io/Curriculum/cv.html">
+  <img src="https://img.shields.io/badge/👁️_Ver_Curriculum-667eea?style=for-the-badge&logoColor=white" alt="Ver Currículum"/>
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+</p>
+
+---
+
+### 🌐 Portfolio Interactivo
+
+<a href="https://ananunezrejon.github.io/Curriculum">
+  <img src="https://img.shields.io/badge/👁️_Ver_Portfolio-f093fb?style=for-the-badge&logoColor=white" alt="Ver Portfolio"/>
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+</p>
+
+---
+
+### 🎨 Delicia Design
+
+<a href="https://www.behance.net/ananunezrejon">
+  <img src="https://img.shields.io/badge/👁️_Ver_en_Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Ver en Behance"/>
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe_Suite-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe"/>
+</p>
 
 </div>
 
->  **Detallito:** ¡Si entras en mis repositorios, podrás ver una preview del proyecto en sí! 💖✨
-
+> 💡 **Detallito:** ¡Si entras en mis repositorios, podrás ver una preview del proyecto en sí! 💖✨
 ---
 
 ## 🌟 Áreas de Especialización
